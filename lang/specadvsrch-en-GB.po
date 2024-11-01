@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spectacu.la Advanced Search Plug-in\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-25 17:28-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Interconnect IT <admin@interconnectit.com>\n"
+"Language-Team: Interconnect IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: T:\\hosts\\wordpress\\wordpress.29\\wp-content\\plugins\n"
+"X-Poedit-SearchPath-0: spec-adv-search\n"
+
+#: spec-adv-search/spec-adv-search.php:52
+msgid "Default mode, no extensions."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:53
+msgid "Boolean mode"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:54
+msgid "With query expansion"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:55
+msgid "Natural language mode"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:56
+msgid "Natural language mode with query expansion"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:59
+msgid "Sort by relevance (recommended)"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:60
+msgid "Sort by date."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:96
+msgid "<b>Spectacu.la</b> Advanced Search plug-in is activated but has not been enabled. Please go to <b>\"Settings / Advanced Search\"</b> and follow the procedures there."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:115
+msgid "Advanced Search"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:122
+#, php-format
+msgid "This post has a search ranking of (%s)"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:384
+msgid "Advanced search settings"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:391
+msgid "Enable"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:395
+msgid "- Index created."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:395
+msgid "- No index. Please use the controls below to create an index before trying to enable this."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:399
+msgid "Mode"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:413
+msgid "Sort order"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:428
+msgid "Build/Delete index"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:430
+msgid "Create Index"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:431
+msgid "Are you really sure you want to do that?"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:431
+msgid "Delete Index"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:435
+#, php-format
+msgid "MySQL is returning the following message: \"%s\""
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:438
+#, php-format
+msgid "The index creation is scheduled to start after %s. Refresh this page to get updates."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:441
+#, php-format
+msgid "The index deletion is scheduled to start after %s. Refresh this page to get updates."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:445
+#: spec-adv-search/spec-adv-search.php:447
+msgid "Optimise Table"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:450
+#, php-format
+msgid "We will start optimising the posts table after %s."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:457
+msgid "Scheduled optimisation"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:462
+msgid ":Enable scheduled table optimisation."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:472
+msgid "Starting after"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:481
+#, php-format
+msgid "Next scheduled to run after: %s "
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:481
+msgid "Not scheduled to run."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:488
+msgid "Relevancy cut off."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:492
+msgid "This should be a numeric value that represents the lowest relevancy value of a post that should be shown when using Query Expansion."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:493
+msgid "When logged in, using Query expansion and performing a search you will see a numeric value after the post content or excerpt This is how relevant a post is."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:498
+msgid "Cron is working"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:502
+msgid "If you have problems with wp_cron then untick this box. The create, delete and optimise buttons will now work but you should be aware that you may see PHP timeout errors and you will also have to optimise the wp_posts table manually. The timeout errors shouldn't be a problem as the db should continue the requested action."
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:508
+msgid "Save Changes"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:589
+msgid "Every 2 Days"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:590
+msgid "Every week"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:591
+msgid "Every fortnight"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:592
+msgid "Every 28 days"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:833
+msgid "Creating index on post_content"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:836
+msgid "Deleting index on post_content"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:839
+msgid "Creating index on post_title"
+msgstr ""
+
+#: spec-adv-search/spec-adv-search.php:842
+msgid "Deleting index on post_title"
+msgstr ""
